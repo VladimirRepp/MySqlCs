@@ -1,4 +1,4 @@
-﻿// Необходимо установить MySQL Connectot .Net
+﻿// Необходимо установить MySQL Connector .Net
 // https://dev.mysql.com/downloads/connector/net/
 using MySql.Data.MySqlClient;
 
